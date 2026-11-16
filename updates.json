@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "publishedAt": "2026-11-16T08:16:17.8613567Z",
+  "publishedAt": "2026-11-16T10:20:28.688163+00:00",
   "releases": [
     {
-      "version": "0.11.0",
-      "notes": "HF2211: DHCP по прямому кабелю и восстановление после перезапуска; автоматический вход в настройки и встроенный браузер; пояснения к полям и памятка LAN/Wi-Fi. Убраны дубли интерфейса, улучшено копирование.",
+      "version": "0.12.0",
+      "notes": "HF2211: обнаружение неизвестного статического IP по Ethernet через HF Broadcast; корректные адреса LAN/WAN; распознавание защищённой веб-консоли; подсветка конфликтующих полей с рекомендациями; проверено открытие настроек по найденному адресу.",
       "packages": [
         {
           "variant": "Lite",
-          "fileId": "1Z3q2qGrbNvaAR9fOBNG6UpPcuNmjtpDn",
-          "fileName": "MOXAWIK-0.11.0-Setup-Lite-x64.exe",
-          "size": 47635275,
-          "sha256": "9ff4cf878e0deffcb6aa5f79128daaf2930d4db734d634a34d1dc1457e179f3e"
+          "fileName": "MOXAWIK-0.12.0-Setup-Lite-x64.exe",
+          "size": 47639877,
+          "sha256": "446e15edf85a3f2022d850861fbeaf686c15a498a1c507fb01d48914d321628b",
+          "fileId": "1GYDEqnP09LiDhRNBMf8zhoMFtS37Ftvb"
         },
         {
           "variant": "Offline",
-          "fileId": "1wUtphJvKzF0jUg5FP3R8WsyXvO1gn-cu",
-          "fileName": "MOXAWIK-0.11.0-Setup-Offline-x64.exe",
-          "size": 262523539,
-          "sha256": "4f73e49027c78a9d00261cb3a0e08422ce83a18333d0e4067a41825a265a9bdc"
+          "fileName": "MOXAWIK-0.12.0-Setup-Offline-x64.exe",
+          "size": 262528141,
+          "sha256": "0a8a971fb04feae93f32e52a655c47d1380868704c38d2b1273b4124b5445c52",
+          "fileId": "1rieaXPEcQQwcH8Hhj_PNWH299jgJmHHJ"
         }
       ]
     }
